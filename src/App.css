@@ -23,6 +23,11 @@
   color: #61dafb;
 }
 
+h1 {
+  font-family: "Butcherman", cursive;
+  color: #0ccac4;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
